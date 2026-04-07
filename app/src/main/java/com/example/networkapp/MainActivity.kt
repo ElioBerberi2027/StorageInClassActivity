@@ -68,6 +68,4 @@ class MainActivity : AppCompatActivity() {
     private fun saveComic(comicObject: JSONObject) {
 
     }
-
-
 }
